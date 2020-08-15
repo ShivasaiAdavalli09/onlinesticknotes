@@ -1,10 +1,8 @@
-{
-    "name": "Sticky-notes-by-hivasai",
+{   "name": "Sticky-notes-by-hivasai",
     "short_name": "Stickynotes",
     "start_url": "./index.html",
     "scope": "./",
     "display": "standalone",
     "background_color": "#FFE9D2",
     "theme_color": "#ffd31d"
-    
-}
+    }
